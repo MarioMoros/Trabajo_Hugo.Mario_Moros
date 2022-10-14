@@ -1,21 +1,32 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'es-ES'
 title = 'My New Hugo Site'
 theme = "shadocs"
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
-identifier = "ds"
-url = "https://github.com/McShelby/hugo-theme-relearn"
-weight = 10
+defaultContentLanguage = "en"
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-url = "more/showcase/"
-weight = 11
+[Languages]
+    [Languages.en]
+        title = "Mister Hugo"
+        weight = 1
+        languageName = "English"
+        contentDir = "content/en"
+   [Languages.fr]
+        title = "Monsieur Hugo"
+        weight = 2
+        languageName = "Français"
+        contentDir = "content/fr"
+    [Languages.es]
+        title = "Señor Hugo"
+        weight = 3
+        languageName = "Español"
+        contentDir = "content/es"
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.tableOfContents]
+    ordered    = false
+    startLevel = 1
+    endLevel   = 10
+  [markup.goldmark.renderer]
+    unsafe = false
