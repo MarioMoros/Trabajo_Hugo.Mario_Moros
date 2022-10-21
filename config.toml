@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
-languageCode = 'es-ES'
+languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "shadocs"
 
@@ -8,25 +8,21 @@ defaultContentLanguage = "en"
 [Languages]
     [Languages.en]
         title = "Mister Hugo"
-        weight = 1
+        weight = 3
         languageName = "English"
         contentDir = "content/en"
    [Languages.fr]
         title = "Monsieur Hugo"
-        weight = 2
+        weight = 1
         languageName = "Français"
         contentDir = "content/fr"
     [Languages.es]
         title = "Señor Hugo"
-        weight = 3
+        weight = 2
         languageName = "Español"
         contentDir = "content/es"
 
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.tableOfContents]
-    ordered    = false
-    startLevel = 1
-    endLevel   = 10
-  [markup.goldmark.renderer]
-    unsafe = false
+[params]
+  toc = false
+
+

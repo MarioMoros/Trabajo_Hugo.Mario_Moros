@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Sobre mi"
+title: "Sur Moi"
 description: "Presentacion"
 titleIcon: "fa-solid fa-user"
 categories: ["Markdown"]
