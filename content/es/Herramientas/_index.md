@@ -7,3 +7,9 @@ categories: ["Markdown"]
 tags: ["Content management"]
 ---
 
+WebPack
+: Es un empaquetador de módulos de JavaScript que gestiona la dependencia entre módulos, comprime el código y solicita archivos.
+: {{< alert >}}
+https://webpack.js.org/
+{{< /alert >}}
+
