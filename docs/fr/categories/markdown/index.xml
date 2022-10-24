@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Monsieur Hugo</title>
+    <link>http://example.org/fr/categories/markdown/</link>
+    <description>Recent content in Markdown on Monsieur Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/fr/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sur Moi</title>
+      <link>http://example.org/fr/presentaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/presentaci%C3%B3n/</guid>
+      <description>Bonjour, je m&amp;rsquo;appelle Mario et j&amp;rsquo;ai 20 ans.
+Je suis un étudiant du degré supérieur de développement d&amp;rsquo;applications Web au CPIFP Los Enlaces, Saragosse.
+Avant cela, j&amp;rsquo;ai étudié le développement d&amp;rsquo;applications multiplateformes à l&amp;rsquo;institut Satiago Hernandez, juste après avoir terminé mes études secondaires dans le même centre.
+Maintenant, mon objectif est de terminer le Web, afin que je puisse commencer à travailler, de préférence sur quelque chose lié aux pages Web, ce qui est ce que j&amp;rsquo;aime le plus de tout ce que j&amp;rsquo;ai étudié jusqu&amp;rsquo;à présent.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>http://example.org/fr/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/hugo/</guid>
+      <description>Hugo est un framework pour créer des pages web.
+L&amp;rsquo;un des plus populaires dans la création de sites statiques.
+Installation sous Linux # L&amp;rsquo;installation basée sur des commandes sous Linux est simple, il vous suffit de suivre les étapes.
+Facilité
+Installez snap pour télécharger hugo sudo apt-get install snap 2.Installez hugo sudo snap install hugo &amp;ndash;classic Installez un éditeur (par exemple VisualStudioCode) sudo snap install code &amp;ndash;classic Création de pages hugo new site &amp;ldquo;exemple&amp;rdquo; Installation sous Windows # L&amp;rsquo;installation sur Windows est un peu plus compliquée.</description>
+    </item>
+    
+    <item>
+      <title>Comunicacion</title>
+      <link>http://example.org/fr/comunicaci%C3%B3n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/comunicaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas</title>
+      <link>http://example.org/fr/herramientas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/fr/herramientas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
