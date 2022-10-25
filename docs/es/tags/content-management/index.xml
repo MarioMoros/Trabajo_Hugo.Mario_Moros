@@ -32,12 +32,15 @@ Instalar snap para descargar hugo sudo apt-get install snap Instalar hugo sudo s
     </item>
     
     <item>
-      <title>Comunicacion</title>
+      <title>Comunicación</title>
       <link>http://example.org/es/comunicaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/es/comunicaci%C3%B3n/</guid>
-      <description></description>
+      <description>Primer Paso # La dirección que se escribe en la barra de búsqueda del navegador.
+Esta dirección está compuesta por:
+Protocolo Autoridad Puerto Ruta Parámetros Fragmento https: //usuario:password@enlaces.com :80 /modulos/dwes ?id=123&amp;amp;busqueda=php #objetos-111 Segundo Paso # La dirección que hemos introducido es evaluada por el servidor DNS, el cual se encarga de buscar una IP que corresponda a la página web que se está buscando.
+Tercer Paso # El router se encarga de solicitar la información que se encuentra en Internet, para enviarla posteriormente a los equipos que la están pidiendo.</description>
     </item>
     
     <item>
@@ -46,7 +49,7 @@ Instalar snap para descargar hugo sudo apt-get install snap Instalar hugo sudo s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/es/herramientas/</guid>
-      <description> WebPack Es un empaquetador de módulos de JavaScript que gestiona la dependencia entre módulos, comprime el código y solicita archivos. https://webpack.js.org/ </description>
+      <description>WebPack Es un empaquetador de módulos de JavaScript que gestiona la dependencia entre módulos, comprime el código y solicita archivos. https://webpack.js.org/ Polyfill Es un fragmento de código, utilizado en web con JavaScript, que sirve para proporcionar una funciónionalidad moderna a los navegadores antiguos que no lo admiten por defecto. PHP Es un lenguaje de programación de código abierto, utilizado especialmente para el desarrollo web https://www.php.net/ DJango Es un framework de alto nivel utilizado para el desarrollo de sitios web.</description>
     </item>
     
   </channel>

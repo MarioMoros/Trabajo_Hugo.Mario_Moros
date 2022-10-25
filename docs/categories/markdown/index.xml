@@ -19,7 +19,7 @@ Now, my goal is to finish the Web, so I can start working, preferably on somethi
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
+      <title>About Hugo</title>
       <link>http://example.org/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -37,16 +37,19 @@ Install snap to download hugo sudo apt-get install snap Install hugo sudo snap i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/comunicaci%C3%B3n/</guid>
-      <description></description>
+      <description>First Step # The address that is typed into the browser&amp;rsquo;s search bar.
+This address is made up of:
+Protocol Authority Port Route Parameters Fragment https: //user:password@links.com :80 /modules/dwes ?id=123&amp;amp;search=php #objects-111 Second Step # The address that we have entered is evaluated by the DNS server, which is in charge of looking for an IP that corresponds to the web page that is being searched for.
+Third Step # The router is responsible for requesting the information found on the Internet, to send it later to the computers that are requesting it.</description>
     </item>
     
     <item>
-      <title>Herramientas</title>
+      <title>Tools</title>
       <link>http://example.org/herramientas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/herramientas/</guid>
-      <description></description>
+      <description>WebPack It is a JavaScript module wrapper that manages the dependency between modules, compresses the code and requests files. https://webpack.js.org/ Polyfill It is a piece of code, used in the web with JavaScript, which is used to provide modern functionality to older browsers that do not support it by default. PHP It is an open source programming language, used especially for web development https://www.php.net/ Django It is a high-level framework used for the development of websites.</description>
     </item>
     
   </channel>

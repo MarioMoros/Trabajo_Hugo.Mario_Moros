@@ -9,7 +9,7 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <meta name='description' content='Descriptions and examples of markdown syntaxes used in Hugo.'>
 
-<title>Comunicacion | Señor Hugo</title>
+<title>Comunicación | Señor Hugo</title>
 
 <link rel='icon' href='/images/favicon.png' type='image/x-icon'>
 
@@ -909,11 +909,11 @@
         
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/es/comunicaci%C3%B3n/'>
+    <div class='card-header is-single-link'>
+      <a href='/es/comunicaci%C3%B3n/' class='card-header-title'>
         <i class='fa-solid fa-rocket fa-lg'></i>
         
-      </div>
+      </a>
   
 
         </div>
@@ -926,11 +926,11 @@
             
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/es/comunicaci%C3%B3n/'>
+    <div class='card-header is-single-link'>
+      <a href='/es/comunicaci%C3%B3n/' class='card-header-title' title='Comunicación'>
         <i class='fa-solid fa-rocket fa-lg'></i>
-        <p class='pt-0 pb-0 pr-2 pl-1' title='Comunicacion'>Comunicacion</p>
-      </div>
+        <p class='pt-0 pb-0 pr-2 pl-1'>Comunicación</p>
+      </a>
   
 
             
@@ -1045,9 +1045,61 @@
   <div class='column' id='content'>
     
     
-      <div id='contentTitle'>Comunicacion</div>
+      <div id='contentTitle'>Comunicación</div>
     
-    
+    <h1 id='primer-paso'>
+  Primer Paso
+  <a href='#primer-paso' class='anchor'>#</a>
+</h1><p>La dirección que se escribe en la barra de búsqueda del navegador.</p>
+<p>Esta dirección está compuesta por:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Protocolo</th>
+<th style="text-align:center">Autoridad</th>
+<th style="text-align:center">Puerto</th>
+<th style="text-align:center">Ruta</th>
+<th style="text-align:center">Parámetros</th>
+<th style="text-align:center">Fragmento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">https:</td>
+<td style="text-align:center">//usuario:password@enlaces.com</td>
+<td style="text-align:center">:80</td>
+<td style="text-align:center">/modulos/dwes</td>
+<td style="text-align:center">?id=123&amp;busqueda=php</td>
+<td style="text-align:center">#objetos-111</td>
+</tr>
+</tbody>
+</table>
+<h1 id='segundo-paso'>
+  Segundo Paso
+  <a href='#segundo-paso' class='anchor'>#</a>
+</h1><p>La dirección que hemos introducido es evaluada por el servidor DNS, el cual se encarga de buscar una IP que corresponda a la página web que se está buscando.</p>
+<h1 id='tercer-paso'>
+  Tercer Paso
+  <a href='#tercer-paso' class='anchor'>#</a>
+</h1><p>El router se encarga de solicitar la información que se encuentra en Internet, para enviarla posteriormente a los equipos que la están pidiendo.</p>
+<h1 id='cuarto-paso'>
+  Cuarto Paso
+  <a href='#cuarto-paso' class='anchor'>#</a>
+</h1><p>El protocolo HTTP de coger esa información de la web para transferirsela al usuario.</p>
+<h1 id='último-paso'>
+  Último Paso
+  <a href='#%c3%baltimo-paso' class='anchor'>#</a>
+</h1><p>La información de la página llega al router y se muestra la página web en el navegador.</p>
+<hr>
+<!-- raw HTML omitted -->
+<pre tabindex="0"><code class="language-mermaid" data-lang="mermaid">graph TB
+    subgraph Etapa 2
+    b1(Router) --&gt; b2(HTTP) --&gt; b3(Navegador)
+    end
+    subgraph Etapa 1
+    a1(URL) --&gt; a2(DNS) --&gt; a3(Router)
+    end
+</code></pre>
   </div>
   
 </div>
@@ -1090,6 +1142,8 @@
 
 
 
+  
+    
   
 
 
@@ -1160,6 +1214,16 @@
       
     
     <script type='module' src='/js/external/overlay-scrollbars/OverlayScrollbars.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/external/mermaid/mermaid.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/fencedcodes/mermaid.min.js'></script>
   
 
 

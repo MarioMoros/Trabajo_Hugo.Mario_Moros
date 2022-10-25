@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: "Herramientas"
+title: "Outils"
 description: "Descriptions and examples of markdown syntaxes used in Hugo."
 titleIcon: "fa-solid fa-wrench"
 categories: ["Markdown"]

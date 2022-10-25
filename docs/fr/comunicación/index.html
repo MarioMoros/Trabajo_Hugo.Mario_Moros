@@ -9,7 +9,7 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <meta name='description' content='Descriptions and examples of markdown syntaxes used in Hugo.'>
 
-<title>Comunicacion | Monsieur Hugo</title>
+<title>La Communication | Monsieur Hugo</title>
 
 <link rel='icon' href='/images/favicon.png' type='image/x-icon'>
 
@@ -862,9 +862,9 @@
   
   
     <div class='card-header is-single-link'>
-      <a href='/fr/hugo/' class='card-header-title' title='Sobre Hugo'>
+      <a href='/fr/hugo/' class='card-header-title' title='Sur Hugo'>
         <i class='fa-solid fa-cloud fa-lg'></i>
-        <p class='pt-0 pb-0 pr-2 pl-1'>Sobre Hugo</p>
+        <p class='pt-0 pb-0 pr-2 pl-1'>Sur Hugo</p>
       </a>
   
 
@@ -909,11 +909,11 @@
         
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/fr/comunicaci%C3%B3n/'>
+    <div class='card-header is-single-link'>
+      <a href='/fr/comunicaci%C3%B3n/' class='card-header-title'>
         <i class='fa-solid fa-rocket fa-lg'></i>
         
-      </div>
+      </a>
   
 
         </div>
@@ -926,11 +926,11 @@
             
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/fr/comunicaci%C3%B3n/'>
+    <div class='card-header is-single-link'>
+      <a href='/fr/comunicaci%C3%B3n/' class='card-header-title' title='La Communication'>
         <i class='fa-solid fa-rocket fa-lg'></i>
-        <p class='pt-0 pb-0 pr-2 pl-1' title='Comunicacion'>Comunicacion</p>
-      </div>
+        <p class='pt-0 pb-0 pr-2 pl-1'>La Communication</p>
+      </a>
   
 
             
@@ -973,11 +973,11 @@
         
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/fr/herramientas/'>
+    <div class='card-header is-single-link'>
+      <a href='/fr/herramientas/' class='card-header-title'>
         <i class='fa-solid fa-wrench fa-lg'></i>
         
-      </div>
+      </a>
   
 
         </div>
@@ -990,11 +990,11 @@
             
   
   
-    <div class='card-header is-sidebar-disable'>
-      <div class='card-header-title' href='/fr/herramientas/'>
+    <div class='card-header is-single-link'>
+      <a href='/fr/herramientas/' class='card-header-title' title='Outils'>
         <i class='fa-solid fa-wrench fa-lg'></i>
-        <p class='pt-0 pb-0 pr-2 pl-1' title='Herramientas'>Herramientas</p>
-      </div>
+        <p class='pt-0 pb-0 pr-2 pl-1'>Outils</p>
+      </a>
   
 
             
@@ -1045,9 +1045,61 @@
   <div class='column' id='content'>
     
     
-      <div id='contentTitle'>Comunicacion</div>
+      <div id='contentTitle'>La Communication</div>
     
-    
+    <h1 id='premier-pas'>
+  Premier Pas
+  <a href='#premier-pas' class='anchor'>#</a>
+</h1><p>L&rsquo;adresse saisie dans la barre de recherche du navigateur.</p>
+<p>Cette adresse est composée de :</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Protocole</th>
+<th style="text-align:center">Autorité</th>
+<th style="text-align:center">Port</th>
+<th style="text-align:center">Route</th>
+<th style="text-align:center">Paramètres</th>
+<th style="text-align:center">Fragment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">https:</td>
+<td style="text-align:center">//user:password@links.com</td>
+<td style="text-align:center">:80</td>
+<td style="text-align:center">/modules/dwes</td>
+<td style="text-align:center">?id=123&amp;search=php</td>
+<td style="text-align:center">#objects-111</td>
+</tr>
+</tbody>
+</table>
+<h1 id='deuxième-pas'>
+  Deuxième Pas
+  <a href='#deuxi%c3%a8me-pas' class='anchor'>#</a>
+</h1><p>L&rsquo;adresse que nous avons saisie est évaluée par le serveur DNS, qui est chargé de rechercher une adresse IP correspondant à la page Web recherchée.</p>
+<h1 id='troisième-étape'>
+  Troisième Étape
+  <a href='#troisi%c3%a8me-%c3%a9tape' class='anchor'>#</a>
+</h1><p>Le routeur est chargé de demander les informations trouvées sur Internet, pour les envoyer ultérieurement aux ordinateurs qui les demandent.</p>
+<h1 id='quatrième-étape'>
+  Quatrième Étape
+  <a href='#quatri%c3%a8me-%c3%a9tape' class='anchor'>#</a>
+</h1><p>Le protocole HTTP pour obtenir ces informations du Web pour les transférer à l&rsquo;utilisateur.</p>
+<h1 id='cinquième-étape'>
+  Cinquième Étape
+  <a href='#cinqui%c3%a8me-%c3%a9tape' class='anchor'>#</a>
+</h1><p>Les informations de la page parviennent au routeur et la page Web s&rsquo;affiche dans le navigateur.</p>
+<hr>
+<!-- raw HTML omitted -->
+<pre tabindex="0"><code class="language-mermaid" data-lang="mermaid">graph TB
+    subgraph Étape 2
+    b1(Routeur) --&gt; b2(HTTP) --&gt; b3(Navigateur)
+    end
+    subgraph Étape 1
+    a1(URL) --&gt; a2(DNS) --&gt; a3(Routeur)
+    end
+</code></pre>
   </div>
   
 </div>
@@ -1090,6 +1142,8 @@
 
 
 
+  
+    
   
 
 
@@ -1160,6 +1214,16 @@
       
     
     <script type='module' src='/js/external/overlay-scrollbars/OverlayScrollbars.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/external/mermaid/mermaid.min.js'></script>
+  
+    
+      
+    
+    <script type='module' src='/js/fencedcodes/mermaid.min.js'></script>
   
 
 

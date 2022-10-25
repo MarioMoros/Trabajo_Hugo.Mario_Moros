@@ -19,7 +19,7 @@ Maintenant, mon objectif est de terminer le Web, afin que je puisse commencer à
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
+      <title>Sur Hugo</title>
       <link>http://example.org/fr/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,21 +32,24 @@ Installez snap pour télécharger hugo sudo apt-get install snap 2.Installez hug
     </item>
     
     <item>
-      <title>Comunicacion</title>
+      <title>La Communication</title>
       <link>http://example.org/fr/comunicaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/fr/comunicaci%C3%B3n/</guid>
-      <description></description>
+      <description>Premier Pas # L&amp;rsquo;adresse saisie dans la barre de recherche du navigateur.
+Cette adresse est composée de :
+Protocole Autorité Port Route Paramètres Fragment https: //user:password@links.com :80 /modules/dwes ?id=123&amp;amp;search=php #objects-111 Deuxième Pas # L&amp;rsquo;adresse que nous avons saisie est évaluée par le serveur DNS, qui est chargé de rechercher une adresse IP correspondant à la page Web recherchée.
+Troisième Étape # Le routeur est chargé de demander les informations trouvées sur Internet, pour les envoyer ultérieurement aux ordinateurs qui les demandent.</description>
     </item>
     
     <item>
-      <title>Herramientas</title>
+      <title>Outils</title>
       <link>http://example.org/fr/herramientas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/fr/herramientas/</guid>
-      <description></description>
+      <description>WebPack C&amp;rsquo;est un wrapper de module JavaScript qui gère les dépendances entre les modules, comprime le code et demande les fichiers. https://webpack.js.org/ Polyfill Il s&amp;rsquo;agit d&amp;rsquo;un morceau de code, utilisé sur le Web avec JavaScript, qui est utilisé pour fournir des fonctionnalités modernes aux anciens navigateurs qui ne le prennent pas en charge par défaut. PHP C&amp;rsquo;est un langage de programmation open source, utilisé notamment pour le développement web https://www.</description>
     </item>
     
   </channel>
