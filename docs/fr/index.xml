@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsieur Hugo</title>
-    <link>http://example.org/fr/</link>
+    <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/</link>
     <description>Recent content on Monsieur Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content management on Monsieur Hugo</title>
-    <link>http://example.org/fr/tags/content-management/</link>
+    <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/tags/content-management/</link>
     <description>Recent content in Content management on Monsieur Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/fr/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sur Moi</title>
-      <link>http://example.org/fr/presentaci%C3%B3n/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/presentaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/presentaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/presentaci%C3%B3n/</guid>
       <description>Bonjour, je m&amp;rsquo;appelle Mario et j&amp;rsquo;ai 20 ans.
 Je suis un étudiant du degré supérieur de développement d&amp;rsquo;applications Web au CPIFP Los Enlaces, Saragosse.
 Avant cela, j&amp;rsquo;ai étudié le développement d&amp;rsquo;applications multiplateformes à l&amp;rsquo;institut Satiago Hernandez, juste après avoir terminé mes études secondaires dans le même centre.
@@ -20,10 +20,10 @@ Maintenant, mon objectif est de terminer le Web, afin que je puisse commencer à
     
     <item>
       <title>Sur Hugo</title>
-      <link>http://example.org/fr/hugo/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/hugo/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/hugo/</guid>
       <description>Hugo est un framework pour créer des pages web.
 L&amp;rsquo;un des plus populaires dans la création de sites statiques.
 Installation sous Linux # L&amp;rsquo;installation basée sur des commandes sous Linux est simple, il vous suffit de suivre les étapes.
@@ -33,10 +33,10 @@ Installez snap pour télécharger hugo sudo apt-get install snap 2.Installez hug
     
     <item>
       <title>La Communication</title>
-      <link>http://example.org/fr/comunicaci%C3%B3n/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/comunicaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/comunicaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/comunicaci%C3%B3n/</guid>
       <description>Premier Pas # L&amp;rsquo;adresse saisie dans la barre de recherche du navigateur.
 Cette adresse est composée de :
 Protocole Autorité Port Route Paramètres Fragment https: //user:password@links.com :80 /modules/dwes ?id=123&amp;amp;search=php #objects-111 Deuxième Pas # L&amp;rsquo;adresse que nous avons saisie est évaluée par le serveur DNS, qui est chargé de rechercher une adresse IP correspondant à la page Web recherchée.
@@ -45,10 +45,10 @@ Troisième Étape # Le routeur est chargé de demander les informations trouvée
     
     <item>
       <title>Outils</title>
-      <link>http://example.org/fr/herramientas/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/herramientas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/herramientas/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/fr/herramientas/</guid>
       <description>WebPack C&amp;rsquo;est un wrapper de module JavaScript qui gère les dépendances entre les modules, comprime le code et demande les fichiers. https://webpack.js.org/ Polyfill Il s&amp;rsquo;agit d&amp;rsquo;un morceau de code, utilisé sur le Web avec JavaScript, qui est utilisé pour fournir des fonctionnalités modernes aux anciens navigateurs qui ne le prennent pas en charge par défaut. PHP C&amp;rsquo;est un langage de programmation open source, utilisé notamment pour le développement web https://www.</description>
     </item>
     

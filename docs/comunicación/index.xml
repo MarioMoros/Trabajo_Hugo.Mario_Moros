@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comunicacion on Mister Hugo</title>
-    <link>http://example.org/comunicaci%C3%B3n/</link>
-    <description>Recent content in Comunicacion on Mister Hugo</description>
+    <title>Comunication on Mister Hugo</title>
+    <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/comunicaci%C3%B3n/</link>
+    <description>Recent content in Comunication on Mister Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/comunicaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/comunicaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

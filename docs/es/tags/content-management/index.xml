@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content management on Señor Hugo</title>
-    <link>http://example.org/es/tags/content-management/</link>
+    <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/tags/content-management/</link>
     <description>Recent content in Content management on Señor Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/es/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre mi</title>
-      <link>http://example.org/es/presentaci%C3%B3n/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/presentaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/presentaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/presentaci%C3%B3n/</guid>
       <description>Hola, me llamo Mario y tengo 20 años.
 Soy estudiante del grado superior de Desarrollo de Aplicaciones Web en el CPIFP Los Enlaces, Zaragoza.
 Anterior a esto, cursé el grado superior de Desarrollo de Aplicaciones Multiplataforma en el instituto Satiago Hernandez, justo después de terminar bachillerato en ese mismo centro.
@@ -20,10 +20,10 @@ Ahora, mi objetivo es terminar el Web, para así poder empezar a trabajar, prefe
     
     <item>
       <title>Sobre Hugo</title>
-      <link>http://example.org/es/hugo/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/hugo/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/hugo/</guid>
       <description>Hugo es un framework destinado a la creación de páginas web.
 Uno de los más populares en la creación de sitios estáticos.
 Instalación en Linux # La instalación en linux a base de comandos es sencilla, tan solo hay que seguir los pasos.
@@ -33,10 +33,10 @@ Instalar snap para descargar hugo sudo apt-get install snap Instalar hugo sudo s
     
     <item>
       <title>Comunicación</title>
-      <link>http://example.org/es/comunicaci%C3%B3n/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/comunicaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/comunicaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/comunicaci%C3%B3n/</guid>
       <description>Primer Paso # La dirección que se escribe en la barra de búsqueda del navegador.
 Esta dirección está compuesta por:
 Protocolo Autoridad Puerto Ruta Parámetros Fragmento https: //usuario:password@enlaces.com :80 /modulos/dwes ?id=123&amp;amp;busqueda=php #objetos-111 Segundo Paso # La dirección que hemos introducido es evaluada por el servidor DNS, el cual se encarga de buscar una IP que corresponda a la página web que se está buscando.
@@ -45,10 +45,10 @@ Tercer Paso # El router se encarga de solicitar la información que se encuentra
     
     <item>
       <title>Herramientas</title>
-      <link>http://example.org/es/herramientas/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/herramientas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/es/herramientas/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/es/herramientas/</guid>
       <description>WebPack Es un empaquetador de módulos de JavaScript que gestiona la dependencia entre módulos, comprime el código y solicita archivos. https://webpack.js.org/ Polyfill Es un fragmento de código, utilizado en web con JavaScript, que sirve para proporcionar una funciónionalidad moderna a los navegadores antiguos que no lo admiten por defecto. PHP Es un lenguaje de programación de código abierto, utilizado especialmente para el desarrollo web https://www.php.net/ DJango Es un framework de alto nivel utilizado para el desarrollo de sitios web.</description>
     </item>
     

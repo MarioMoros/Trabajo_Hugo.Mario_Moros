@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Mister Hugo</title>
-    <link>http://example.org/categories/markdown/</link>
+    <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/categories/markdown/</link>
     <description>Recent content in Markdown on Mister Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://example.org/presentaci%C3%B3n/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/presentaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/presentaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/presentaci%C3%B3n/</guid>
       <description>Hello, my name is Mario and I am 20 years old.
 I am a student of the higher degree of Web Application Development at the CPIFP Los Enlaces, Zaragoza.
 Prior to this, I studied Multiplatform Application Development at the Satiago Hernandez institute, just after finishing high school at the same center.
@@ -20,10 +20,10 @@ Now, my goal is to finish the Web, so I can start working, preferably on somethi
     
     <item>
       <title>About Hugo</title>
-      <link>http://example.org/hugo/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/hugo/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/hugo/</guid>
       <description>Hugo is a framework for creating web pages.
 One of the most popular in the creation of static sites.
 Installation on Linux # The command-based installation in linux is simple, you just have to follow the steps.
@@ -32,11 +32,11 @@ Install snap to download hugo sudo apt-get install snap Install hugo sudo snap i
     </item>
     
     <item>
-      <title>Comunicacion</title>
-      <link>http://example.org/comunicaci%C3%B3n/</link>
+      <title>Comunication</title>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/comunicaci%C3%B3n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/comunicaci%C3%B3n/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/comunicaci%C3%B3n/</guid>
       <description>First Step # The address that is typed into the browser&amp;rsquo;s search bar.
 This address is made up of:
 Protocol Authority Port Route Parameters Fragment https: //user:password@links.com :80 /modules/dwes ?id=123&amp;amp;search=php #objects-111 Second Step # The address that we have entered is evaluated by the DNS server, which is in charge of looking for an IP that corresponds to the web page that is being searched for.
@@ -45,10 +45,10 @@ Third Step # The router is responsible for requesting the information found on t
     
     <item>
       <title>Tools</title>
-      <link>http://example.org/herramientas/</link>
+      <link>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/herramientas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/herramientas/</guid>
+      <guid>https://mariomoros.github.io/Trabajo_Hugo.Mario_Moros/herramientas/</guid>
       <description>WebPack It is a JavaScript module wrapper that manages the dependency between modules, compresses the code and requests files. https://webpack.js.org/ Polyfill It is a piece of code, used in the web with JavaScript, which is used to provide modern functionality to older browsers that do not support it by default. PHP It is an open source programming language, used especially for web development https://www.php.net/ Django It is a high-level framework used for the development of websites.</description>
     </item>
     
