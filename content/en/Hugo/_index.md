@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Sobre Hugo"
+title: "About Hugo"
 description: "Descriptions and examples of markdown syntaxes used in Hugo."
 titleIcon: "fa-solid fa-cloud"
 categories: ["Markdown"]
@@ -35,6 +35,8 @@ sudo snap install code --classic
 {{< blockquote >}}
 hugo new site "example"
 {{< /blockquote >}}
+
+***
 
 ## Installation on Windows
 

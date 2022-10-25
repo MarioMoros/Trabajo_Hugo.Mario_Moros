@@ -36,6 +36,8 @@ sudo snap install code --classic
 hugo new site "ejemplo"
 {{< /blockquote >}}
 
+***
+
 ## Instalación en Windows
 
 La instalación en windows es algo más complicada.
@@ -62,5 +64,6 @@ hugo new site "ejemplo"
 
 Si tienes dudas mirate este video:
 
+<!-- Viva cristo rey -->
 {{<youtube G7umPCU-8xc>}}
 
